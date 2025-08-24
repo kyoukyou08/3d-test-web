@@ -1,3 +1,3 @@
-# 概要 (h1)
-react three fiver練習するためのでもページです。
+# 概要
+react three fiver練習するためのデモページです。
 
